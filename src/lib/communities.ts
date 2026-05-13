@@ -23,7 +23,7 @@ export const communities: Community[] = [
     zip: '89011',
   },
   {
-    slug: 'mcdonald-ranch',
+    slug: 'macdonald-ranch',
     name: 'MacDonald Ranch',
     tagline: 'Master-planned luxury in east Henderson',
     priceRange: '$550K – $1.8M',
