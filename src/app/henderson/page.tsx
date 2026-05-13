@@ -16,7 +16,7 @@ const communities = [
     highlights: ['Lakefront estates', 'Golf courses', 'Marina & water sports', 'Resort amenities'],
   },
   {
-    slug: 'mcdonald-ranch',
+    slug: 'macdonald-ranch',
     name: 'MacDonald Ranch',
     tagline: 'Master-planned luxury in east Henderson',
     priceRange: '$550K – $1.8M',
